@@ -10,8 +10,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100vw;
-    height: 90vw;
+    width: 100%;
+    height: 90%;
     object-fit: cover;
   }
 
@@ -19,9 +19,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100vw;
-    height: 90vw;
-    object-fit: cover;
     text-decoration: none;
     background-color: #a6c2bf;
     color: azure;
